@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comply365.WebHooks.Sample", "Comply365.WebHooks.Sample\Comply365.WebHooks.Sample.csproj", "{2421670E-6E95-41DE-8039-69B586D367AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2421670E-6E95-41DE-8039-69B586D367AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2421670E-6E95-41DE-8039-69B586D367AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2421670E-6E95-41DE-8039-69B586D367AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2421670E-6E95-41DE-8039-69B586D367AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64CE4F46-DDAE-4960-8A30-DF9659E6A068}
+	EndGlobalSection
+EndGlobal

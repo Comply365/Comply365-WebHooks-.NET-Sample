@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/Comply365.WebHooks.Sample/DesignTimeBuild
+/.vs/Comply365.WebHooks.Sample/v15/Server/sqlite3
+/Comply365.WebHooks.Sample/bin
+/.vs/Comply365.WebHooks.Sample/v15
+/Comply365.WebHooks.Sample/obj/Debug/netcoreapp2.1
+/Comply365.WebHooks.Sample/obj
+/Comply365.WebHooks.Sample/Properties
